@@ -1,0 +1,1 @@
+Aplikacja jest grą, w której na świecie rozpoczyna się pandemia a naszym celem jest jej przeciwdziałać. W GUI gracz wybiera poziom trudności, widzi postęp pandemii wraz z upływającym czasem, zdobywa pieniądze, za które kupuje ulepszenia.
